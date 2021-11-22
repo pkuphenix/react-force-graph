@@ -41,14 +41,14 @@
     "example/**/*"
   ],
   "dependencies": {
+  },
+  "peerDependencies": {
+    "react": "*",
     "3d-force-graph": "~1.69.2",
     "3d-force-graph-vr": "~1.23.0",
     "force-graph": "^1.14.0",
     "prop-types": "^15.6.2",
     "react-kapsule": "^1.4.1"
-  },
-  "peerDependencies": {
-    "react": "*"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
